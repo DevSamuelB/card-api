@@ -1,0 +1,23 @@
+{
+  "name": "card-api",
+  "version": "1.0.0",
+  "description": "card-api",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevSamuelB/card-api.git"
+  },
+  "author": "Samuel Barreto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevSamuelB/card-api/issues"
+  },
+  "homepage": "https://github.com/DevSamuelB/card-api#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.1",
+    "sass": "^1.69.6"
+  }
+}
